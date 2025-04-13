@@ -17,8 +17,6 @@
 #include "tftp-client.h"
 #include <unistd.h> 
 
-//TODO merlin test
-//TODO kdyz prijde paket ktery je neocekavany a neni to zatoulany ACK tak poslu error a termiante (misto posilani znovu)
 
 
 #define MAX_WAIT_TIME_SEC 3
